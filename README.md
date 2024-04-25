@@ -10,5 +10,9 @@ This dataset contains information on insurance charges along with various demogr
 
 The dataset encompasses essential demographic and lifestyle attributes of insured individuals alongside their respective insurance expenses.
 
-# Variables
+# Variablee
+
+# Independent Variables -
+
+
  
